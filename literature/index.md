@@ -9,5 +9,4 @@ Here's a few literature resources:
 * [Stories by Teens](/literature/teens)
 * [Assorted Prayers](/literature/assorted-prayers)
 
-
-There are lots of other literature resource on the main [Marijuana Anonymous](https://www.marijuana-anonymous.org/literature)
+There are lots of other literature resources on the main [Marijuana Anonymous](https://www.marijuana-anonymous.org/literature)
