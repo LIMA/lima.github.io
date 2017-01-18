@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**MARIJUANA ANONYMOUS** is a fellowship of men and women who share our experience, strength, and hope with each other that we may solve our common problem and help others to recover from marijuana addiction. The only requirement for membership is a desire to stop using marijuana. There are no dues or fees for membership. We are self-supporting through our own contributions. MA is not affiliated with any religious or secular institution or organization and has no opinion on any outside controversies or causes. Our primary purpose is to stay free of marijuana and to help the marijuana addict who still suffers achieve the same freedom. We can do this by practicing our suggested twelve steps of recovery and by being guided as a group by our twelve traditions.
+**MARIJUANA ANONYMOUS** is a fellowship of people who share our experience, strength, and hope with each other that we may solve our common problem and help others to recover from marijuana addiction. The only requirement for membership is a desire to stop using marijuana. There are no dues or fees for membership. We are self-supporting through our own contributions. MA is not affiliated with any religious or secular institution or organization and has no opinion on any outside controversies or causes. Our primary purpose is to stay free of marijuana and to help the marijuana addict who still suffers achieve the same freedom. We can do this by practicing our suggested twelve steps of recovery and by being guided as a group by our twelve traditions.
 
 **Do you think you have a problem with Marijuana? Ask yourself these questions:**
 

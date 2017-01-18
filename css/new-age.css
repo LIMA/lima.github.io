@@ -36,9 +36,8 @@ a:focus {
 }
 hr {
   max-width: 100px;
-  margin: 25px auto 0;
+  margin: 10px auto;
   border-width: 1px;
-  border-color: rgba(34, 34, 34, 0.1);
 }
 hr.light {
   border-color: white;
@@ -52,6 +51,9 @@ h6 {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
+}
+li {
+  font-size: 16px;
 }
 p {
   font-size: 18px;
@@ -72,7 +74,7 @@ p {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
-  color: #fdcc52;
+  color: #000000;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {

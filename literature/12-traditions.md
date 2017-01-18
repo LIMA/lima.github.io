@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: literature
 title: 12 Traditions
 ---
 
