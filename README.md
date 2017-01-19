@@ -1,5 +1,5 @@
-# Jekyll Bootstrap
+# Long Island MA
 
-This is a stripped down Jekyll template that includes Bootstrap and basic features like customized typography, a 404 page, etc.
+This is the Github Pages website for [Long Island MA](http://malongisland.org)
 
-I use it to get started faster on new client websites.
+It's hosted for free by github and content can be easily updated with the small learning curve of [markdown](https://en.wikipedia.org/wiki/Markdown) templating.
