@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Welcome
 ---
 
 ## Welcome to Long Island Marijuana Anonymous

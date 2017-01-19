@@ -1,5 +1,6 @@
 ---
 layout: literature
+title: Literature
 ---
 
 Here's a few literature resources:
