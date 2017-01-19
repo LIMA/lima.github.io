@@ -8,20 +8,28 @@
   <title>{% if page.title %}{{ page.title}} | {% endif %}{{ site.title }}</title>
 
   <!-- CSS (Bootstrap is loaded via a content delivery network) -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <link rel="preload" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" as="style" onload="this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"></noscript>
 
   <!-- Custom Fonts -->
-  <link href="//fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-  <link href="//fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-  <link href="//fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+  <link rel="preload" href="//fonts.googleapis.com/css?family=Lato" as="style" onload="this.rel='stylesheet'">
+  <noscript><link href="//fonts.googleapis.com/css?family=Lato" rel="stylesheet"></noscript>
+  <link rel="preload" href="//fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" as="style" onload="this.rel='stylesheet'">
+  <noscript><link href="//fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet"></noscript>
+  <link rel="preload" href="//fonts.googleapis.com/css?family=Muli" as="style" onload="this.rel='stylesheet'">
+  <noscript><link href="//fonts.googleapis.com/css?family=Muli" rel="stylesheet"></noscript>
 
   <!-- Plugin CSS -->
-  <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/vendor/simple-line-icons/css/simple-line-icons.min.css">
-  <link rel="stylesheet" href="/vendor/device-mockups/device-mockups.min.css">
+  <link rel="preload" href="/vendor/font-awesome/css/font-awesome.min.css" as="style" onload="this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css"></noscript>
+  <link rel="preload" href="/vendor/simple-line-icons/css/simple-line-icons.min.css" as="style" onload="this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/vendor/simple-line-icons/css/simple-line-icons.min.css"></noscript>
+  <link rel="preload" href="/vendor/device-mockups/device-mockups.min.css" as="style" onload="this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/vendor/device-mockups/device-mockups.min.css"></noscript>
 
   <!-- Theme CSS -->
-  <link href="/css/new-age.min.css" rel="stylesheet">
+  <link rel="preload" href="/css/new-age.min.css" as="style" onload="this.rel='stylesheet'">
+  <noscript><link href="/css/new-age.min.css" rel="stylesheet"></noscript>
 
   <!-- Icons -->
   <link href="{{ site.baseurl }}/img/favicon.ico" rel="shortcut icon">
