@@ -23,11 +23,11 @@ O, NS
 
 **Starting January 4, 2018**<br/>
 **Thursdays – 7:30 – 8:30 pm**  
-Huntington, LI  
-Old First Church
-125 Main St.
-Huntington, NY 11743
-O, NS  
+Huntington, LI
+Old First Church<br/>
+125 Main St.<br/>
+Huntington, NY 11743<br/>
+O, NS<br/>
 <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3016.8770661235753!2d-73.42196368431463!3d40.874571979314595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e827d4ec6c44e5%3A0xde259a442c776766!2sOld+First+Presbyterian+Church!5e0!3m2!1sen!2sus!4v1514339690780" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="350"></iframe><br />
 <small><a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps/place/Old+First+Presbyterian+Church/@40.874572,-73.4219637,17z/data=!3m1!4b1!4m5!3m4!1s0x89e827d4ec6c44e5:0xde259a442c776766!8m2!3d40.874572!4d-73.419775">View Larger Map</a></small></p>
 
