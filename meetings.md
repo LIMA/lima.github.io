@@ -12,7 +12,7 @@ title: Meetings
 ## **Marijuana Anonymous Long Island Meeting Schedule**
 
 **Tuesdays – 7:30 - 8:30 pm**
-Hicksville, LI<br/>
+New Beginnings<br/>
 Parkway Community Church<br/>
 95 Stewart Ave<br/>
 Hicksville, NY 11801-6131<br/>
