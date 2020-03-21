@@ -14,7 +14,8 @@ title: Meetings
 ## **Marijuana Anonymous Long Island Meeting Schedule**
 
 **Tuesdays – 7:30 - 8:30 pm**
-https://zoom.us/j/319248250
+<br/>
+https://zoom.us/j/319248250<br/>
 B, O, NS
 
 <p/>
