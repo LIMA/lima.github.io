@@ -15,11 +15,14 @@ title: Meetings
 
 **Tuesdays – 7:30 - 8:30 pm**
 <br/>
-https://zoom.us/j/319248250<br/>
+
+[https://zoom.us/j/319248250](https://zoom.us/j/319248250)<br/>
 B, O, NS
 
 <p/>
 
 **Saturdays – 9:30 – 10:30 am**  
-https://zoom.us/j/319248250
+<br/>
+
+[https://zoom.us/j/319248250](https://zoom.us/j/319248250)<br/>
 O, NS, WA 
